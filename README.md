@@ -30,9 +30,9 @@ fn main() {
 }
 ```
 ### Example Input
-123+456
-42 * 7
-🐧 hello
+- 123+456
+- 42 * 7
+- 🐧 hello
 
 ---
 
@@ -91,9 +91,9 @@ fn main() {
 ```
 
 ### Exemplos de Entrada
-123+456
-42 * 7
-🐧 hello
+- 123+456
+- 42 * 7
+- 🐧 hello
 
 ## 🔍 Como Funciona
 - **Pula espaços em branco iniciais.**
